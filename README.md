@@ -84,18 +84,3 @@ This project is developed for learning, academic, and demonstration purposes and
 👩‍💻 Author
 
 Vyshnavi Chaganti
-
-### 📌 COPY TILL HERE ⬆️
-
----
-
-## ✅ WHERE TO PASTE IT (VERY IMPORTANT)
-
-### Step 1️⃣ Open README file in your project folder
-In **PowerShell** (already inside `D:\smart resume screnning`):
-
-```powershell
-notepad README.md
-
-
-If Notepad opens empty or with old text → delete everything
